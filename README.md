@@ -49,6 +49,15 @@ When running the installer script in Fedora 24 or later, you need to install 'gl
 
     sudo dnf install glib2-devel
 
+## Fonts
+
+To smooth appearance install the following fonts:
+* [San Francisco Font](https://github.com/AppleDesignResources/SanFranciscoFont)
+* [San Francisco Font from iWatch](https://github.com/supermarin/YosemiteSanFranciscoFont)
+
+And if you are a dev surely you will like this:
+* [Awesome Terminal Fonts](https://github.com/gabrielelana/awesome-terminal-fonts)
+
 ## Screenshots
 
 ### GNOME Shell
